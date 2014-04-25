@@ -1,6 +1,10 @@
 DragSortListView
 ================
-
+拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等
+ 项目地址：https://github.com/bauerca/drag-sort-listview
+ Demo地址：https://play.google.com/store/apps/details?id=com.mobeta.android.demodslv
+ APP示例：Wordpress Android 
+ 
 # NOTICE: No longer maintained.
 
 I do not have much time to devote to this project so I am
